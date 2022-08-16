@@ -1,2 +1,2 @@
 # Data-Science-Salary-Predictions
- Data Science salary predictions ML app
+ Data Science Salary Predictions ML app
