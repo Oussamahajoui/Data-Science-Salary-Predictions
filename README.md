@@ -1,6 +1,8 @@
 # Data-Science-Salary-Predictions
  Data Science Salary Predictions ML app
  
+ Link to the app: **[Web App](https://oussamahajoui-data-science-salary-predictions-app-srbjbb.streamlitapp.com/ "DS Salary Web App - Streamlit")**
+ 
 ## Goal:
 * Build a web app to provide salary prediction for Data Science jobs within the US
 
@@ -12,7 +14,7 @@
 * Create machine learning models to estimate Salary data
 * Run diagnostics on the ML model 
 * Export the model as pickle file
-* Leverage Streamlit to create the Web App
+* Leverage Streamlit to create the **[Web App](https://oussamahajoui-data-science-salary-predictions-app-srbjbb.streamlitapp.com/ "DS Salary Web App - Streamlit")**
 
 Full steps in details within my **[Jupyther notebook](https://github.com/Oussamahajoui/Data-Science-Salary-Predictions/blob/main/Data%20Science%20Salary%20Predictor.ipynb "Data Science Salary Predictions Notebook")**
 
