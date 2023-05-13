@@ -2,9 +2,11 @@
  Data Science Salary Predictions ML app
  
  Link to the app: **[Web App](https://oussamahajoui-data-science-salary-predictions-app-srbjbb.streamlitapp.com/ "DS Salary Web App - Streamlit")**
- 
-## Goal:
-* Build a web app to provide salary prediction for Data Science jobs within the US
+
+## Goal & Context:
+*  **TL,DR:** Build a web app to provide salary prediction for Data Science jobs within the US
+*  **Full story:** This project aims to provide a salary prediction for data science jobs within the US using machine learning algorithms. The project involves web scraping job portals such as Glassdoor and Indeed for data science jobs data. The collected data is then cleaned, transformed, merged, and analyzed through exploratory data analysis to gain insights. The data is then used to train machine learning models that estimate salary data. The best performing model is exported as a pickle file and used in a web application created using Streamlit.
+
 
 ## Steps:
 * Web scrapped Job portals (Glassdoor & Indeed) for Data science jobs data
